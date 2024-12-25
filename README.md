@@ -1,5 +1,5 @@
 # L4D2_8Coop_Server_Custom
-**Versión actual:** v1.0.0
+archivos incompletos (se esta subiendo)
 ### Introducción
 
 Les paso los archivos y configuraciones necesarias para poder jugar con 8 jugadores en Left 4 Dead 2.
